@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good news for England: or a speedy, safe, and easy vvay how Ireland may be reduced to the obedience of the Crown of England, in six moneths time Humbled [sic] offered to the serious consideration of the King and Queen's most Excellent Majesty, and to the Right Honourable the Lords Spiritual and Temporal, and Commons of England in Parliament assembled. With allowance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41406</idno>
+            <idno type="STC">Wing G1052A</idno>
+            <idno type="STC">ESTC R215829</idno>
+            <idno type="EEBO-CITATION">99834729</idno>
+            <idno type="PROQUEST">99834729</idno>
+            <idno type="VID">39238</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41406)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39238)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1848:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good news for England: or a speedy, safe, and easy vvay how Ireland may be reduced to the obedience of the Crown of England, in six moneths time Humbled [sic] offered to the serious consideration of the King and Queen's most Excellent Majesty, and to the Right Honourable the Lords Spiritual and Temporal, and Commons of England in Parliament assembled. With allowance.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>and sold at the Three Keys in Nags-Head-Court in Grace-Church-Street,</publisher>
+                  <pubPlace>London, printed :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39238:1"/>
+            <!-- PDF PAGE 73 -->
+            <p>Good News for England: OR A <hi>Speedy, Safe,</hi> AND EASY WAY HOW IRELAND May be Reduced to the Obedience of the <hi>Crown of England,</hi> In ſix Moneths time.</p>
+            <p>Humbled offered to the Serious Conſideration of the King and Queen's moſt Excellent Majeſty, and to the Right Honourable the Lords S<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iritual and Tem<g ref="char:EOLhyphen"/>poral, and Commons of <hi>England</hi> in Parliament Aſſembled.</p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>London,</hi> Printed; and Sold at the <hi>Three Keys</hi> in <hi>Nags-Head-Court</hi> in <hi>Grace-Church-Street,</hi> 1669.</p>
+            <pb facs="tcp:39238:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 74 -->
+            <pb facs="tcp:39238:2"/>
+            <!-- PDF PAGE 74 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:39238:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 75 -->
+            <pb n="3" facs="tcp:39238:3"/>
+            <!-- PDF PAGE 75 -->
+            <head>A Speedy, Safe and Effectual way for Reducing of <hi>Ireland</hi> to the Obedience of the Crown of <hi>England</hi> in ſix Moneths, <hi>&amp;c.</hi>
+            </head>
+            <p>GOD giving his Bleſſing, One Hundred Thouſand men will ſubdue <hi>Ireland</hi> in ſix Moneths with leſs charge then Forty Thouſand men can well do it in two Years; for if the Army be great, ſo as ſufficiently to over-power the Enemy, then very few will be killed or loſt in the Service, which above all things ought to be regarded in a <hi>Chriſtian</hi> Prince and People: But if the Army be not bigger than the Enemies, there may be the more loſt in the Service, and the Work longer a doing.</p>
+            <p>
+               <label>Objection.</label> 
+               <hi>So many men cannot eaſily be ſpared or raiſed.</hi>
+            </p>
+            <p>
+               <label>Anſwer.</label> Eighty Thouſand may ſoon be raiſed in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Wales,</hi> and Twenty Thouſand in <hi>Scotland,</hi> giving every Foot-Soldier ſeven Shillings a Week, they will be encouraged; the which doing, and having of the ſaid number Ten Thouſand of them Horſe-men, the coſt and charge of the Army, of Officers, and Horſe and Foot, the Clothes, Arms, Amunition, Artillery, and all Charges; Admit it ariſe to ten Shillings each man, one with the other each Week, which is Fifty Thouſand
+<pb n="4" facs="tcp:39238:4"/>
+               <!-- PDF PAGE 76 -->Pounds <hi>per</hi> Week in ſix Moneths, is Thirteen Hundred Thouſand Pounds, or Twenty ſix Hundred Thouſand Pounds for a Year.</p>
+            <p>
+               <label>Object.</label> 
+               <hi>So much Money will be too great a Charge upon the Nations.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> There are men in <hi>London,</hi> and in <hi>England,</hi> and ſome in <hi>Scotland,</hi> that would lend moſt of the above ſum, upon Condition to be paid it out of the forfeited Lands in <hi>Ireland,</hi> conſidered at a certain price <hi>per</hi> Acre when the Country is vanquiſhed. And ſuch as would lend Mo<g ref="char:EOLhyphen"/>nies (conſiderable) ſhould pay nothing of the Tax. And all ſuch, either Poor or Rich, that would not lend Monies, and take Debentures, ſhould be taxed and rated by Authority in a Pole Bill, according to their Abilities; and this would quickly do the Work; and then <hi>England</hi> would be ſafe, and all the Dominions thereunto belong<g ref="char:EOLhyphen"/>ing in Reſt and Peace. Alſo this Army, whilſt they are doing this Work, would be exerciſed, and ſo bravely diſciplin'd, that they would be fit, the beginning of the next Year fifty thouſand of them, to go to <hi>Holland,</hi> to aſſiſt <hi>Holland,</hi> or to go to <hi>France,</hi> to do Juſtice upon the <hi>French.</hi>
+            </p>
+            <p>
+               <label>Object.</label> 
+               <hi>Where would Proviſions be had for ſuch an Army?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Money anſwereth all things: Corn is very plenty and cheap in <hi>England,</hi> and theſe hundred thou<g ref="char:EOLhyphen"/>ſand men being maintained by the Proviſions of <hi>England, Wales</hi> and <hi>Scotland,</hi> they may have their Proviſions brought out of <hi>England,</hi> &amp;c. to them, eſpecially great
+<pb n="5" facs="tcp:39238:4"/>
+               <!-- PDF PAGE 76 -->ſtore of Corn and Bread, Cheeſe, Butter and Beer, <hi>&amp;c.</hi> which <hi>England</hi> can ſpare (for payment) and be glad to have a way to vend it. And as for Fleſh, Fiſh, <hi>&amp;c.</hi> there is abundance in <hi>Ireland.</hi>
+            </p>
+            <p>
+               <label>Object.</label> 
+               <hi>What ſhall be done with the</hi> Iriſh, <hi>ſeeing it is contrary to the Nature of an</hi> Engliſh man, <hi>or a</hi> Proteſtant, <hi>to Maſacree, Kill or Deſtroy a Nation of People, or hurt one Soul, when they have overcome them in defence of the</hi> Eng<g ref="char:EOLhyphen"/>liſh <hi>Intereſt, and</hi> Proteſtant <hi>Religion?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Seeing the <hi>Iriſh Papiſts</hi> are moſtly ſuch bloody and cruel People, that whilſt the <hi>Engliſh</hi> have lived peace<g ref="char:EOLhyphen"/>able and quiet amongſt them; or rather the <hi>Engliſh,</hi> whilſt they had power, ſuffering the <hi>Iriſh</hi> to live in the ſame peace and quiet with themſeves. Yet we ſee that the <hi>Iriſh Papiſts,</hi> as ſoon as they got power into their Hands, they rebelled againſt the <hi>Engliſh,</hi> and againſt all the <hi>Brittiſh Proteſtants,</hi> indeavouring with all Severity and Cruelty to utterly deſtroy, and put out the <hi>Engliſh</hi> and <hi>Brittiſh Proteſtants</hi> from under Heaven, or from having a Being to dwell any where upon the face of the whole Earth, witneſs <hi>France,</hi> and <hi>Ireland,</hi> and <hi>Savoy,</hi> and how they have already done, and are ſtill proceeding to do.</p>
+            <p>Therefore every man of them in <hi>Ireland</hi> having taken up Arms and Clubs, Staves, Pickes, <hi>&amp;c.</hi> it would be but juſt on our parts, as <hi>Engliſh</hi> men, <hi>Proteſtants</hi> and good <hi>Chriſtians,</hi> loving of Mercy, to deal better by them then they do by us, and to give them ſome place to live and dwell upon the Earth, to ſend all the Families of them that will not ſubmit to the <hi>Engliſh</hi> Government,
+<pb n="6" facs="tcp:39238:5"/>
+               <!-- PDF PAGE 77 -->now eſtabliſhed, to inhabit in <hi>Virginia</hi> and <hi>Maryland,</hi> and other Plantations and Iſlands in <hi>America</hi> under the Dominion of <hi>England.</hi> And all of the men that have been exerciſing any ſort of Weapon againſt the <hi>Engliſh</hi> and <hi>Britiſh</hi> Proteſtants, that will not give good ſecurity for their loyal and peaceable Behaviour for the time to come, to be beſtowed upon the Emperor of <hi>Germany,</hi> to aſſiſt him to fight againſt the <hi>Turks,</hi> or what elſe may ſeem fit, <hi>&amp;c.</hi>
+            </p>
+            <p>The fore-going ought to be conſidered and done quickly; for in the <hi>Popiſh</hi> Standard up<g ref="char:EOLhyphen"/>on the Caſtle of <hi>Dublin</hi> it is written,<lb/>
+               <q>
+                  <l>NOW, or NEVER.</l>
+                  <l>NOW, and FOR EVER.</l>
+               </q>
+            </p>
+            <p>So that it is now the <hi>Brittiſh Proteſtants</hi> bu<g ref="char:EOLhyphen"/>ſineſs through all the World, eſpecially in <hi>England</hi> and <hi>Scotland,</hi> to put themſelves quick<g ref="char:EOLhyphen"/>ly upon great and extraordinary Charge, to be before-hand with their Enemies, and then in the ſtrength of God they may do their bu<g ref="char:EOLhyphen"/>ſineſs, ſo as they may vanquiſh and overcome the Enemies of their Peace; and ſo order the
+<pb n="7" facs="tcp:39238:5"/>
+               <!-- PDF PAGE 77 -->matter that their Enemies never more get the Dominion over them,<lb/> NOW, nor NEVER.</p>
+            <p>Suppoſe ten Carpenters would be building a Ship two Years, then forty Carpenters would be building it half a Year: Beſides, con<g ref="char:EOLhyphen"/>ſider the Intereſt of Money lying long dead or unprofitable; and conſider the preſent profit of the uſe of the Ship. Alſo, an Enemy may get the Advantage of the matter, by making more ſpeed to the Market, wherefore make haſte, bid a good Price, leſt the Enemy fore-ſtall and increaſe both Principal and Profit.</p>
+            <p>Suppoſe a great Ship of great force, met with another great Ship of ſmall force, its like<g ref="char:EOLhyphen"/>ly the great Ship of great force would ſoon take the other great Ship of ſmall force, with the loſs of few or no men: So a great Army of great force will ſoon Conquor a great Army of ſmall force, without loſs of much men. And the greater the Army, and the ſtronger the Force, the more they daunt and diſcourage their Enemies. Theſe things conſidered, and that notwithſtanding the Army, and the charge
+<pb n="8" facs="tcp:39238:6"/>
+               <!-- PDF PAGE 78 -->be great, yet the ſhortneſs of the Work, and of the Time, it will be done cheaper with a great Army, and quicker, with leſs loſs of men, than with a ſmall Army in longer time, and more loſs of men. And the Work being quickly done, they may be put upon other Service, as is before plainly demonſtrated: And moreover the three Nations would be at Peace to trade and deal, and be profitable to themſelves, and in a ſhort time would regain all the charge, <hi>&amp;c.</hi> And whereas if it be long a doing, Trade will be hindred, and the Nations will grow weak &amp; feeble: And ſuppoſe, that it may be a year before the ſaid Army be called up out of <hi>Ireland</hi> upon other Service; however, there is a Kingdom gained for twenty ſix hun<g ref="char:EOLhyphen"/>dred thouſand pounds, which is ſuppoſed to be worth a hundred times that value; and more<g ref="char:EOLhyphen"/>over <hi>England</hi> cannot be well, nor ſafe without <hi>Irland</hi> be under its Obedience. Alſo again conſider, that there will be in doing this a brave Army made and diſciplin'd to again <hi>France,</hi>
+            </p>
+            <closer>God direct you.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:39238:6"/>
+            <!-- PDF PAGE 78 -->
+         </div>
+      </body>
+   </text>
+</TEI>
